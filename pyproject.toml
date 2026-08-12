@@ -1,0 +1,9 @@
+[project]
+name = "muse-glimmer-abliteration"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "jinja2>=3.1.6",
+    "numpy>=2.5.2",
+    "transformers==5.15.0",
+]

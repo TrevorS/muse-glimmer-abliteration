@@ -1,0 +1,16 @@
+models/
+runs/
+acts/
+directions/
+checkpoints/
+.venv/
+.venv-gpu/
+__pycache__/
+*.pyc
+*.npz
+*.npy
+gguf/*.gguf
+*.gguf
+data/
+report/
+experiments/
